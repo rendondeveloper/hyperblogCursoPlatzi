@@ -1,2 +1,6 @@
 archvo de curso de git
 Se agrego linea 1
+
+Cambio aqui.
+
+Cambio aqui tambien 
